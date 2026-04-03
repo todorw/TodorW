@@ -11,7 +11,7 @@
 
 ---
 
-Full-stack engineer based in Montenegro, building **ImpulsDev** — a small studio focused on quality-driven software. Comfortable from the bare metal up to the browser, with a taste for projects that require real depth. Currently expanding into **Flutter** for cross-platform work.
+Software engineer based in Montenegro, building **ImpulsDev** — a small studio focused on quality-driven software. Comfortable from the bare metal up to the browser, with a taste for projects that require real depth. Currently expanding into **Flutter** for cross-platform work.
 
 ---
 
@@ -36,5 +36,3 @@ Full-stack engineer based in Montenegro, building **ImpulsDev** — a small stud
 **Design & Tooling**
 
 [![My Skills](https://skillicons.dev/icons?i=figma,ps,ai,git&theme=light)](https://skillicons.dev)
-
----
