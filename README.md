@@ -6,9 +6,7 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/%20-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/vuktodorovic)
-[![Email](https://img.shields.io/badge/%20-0d1117?style=for-the-badge&logo=protonmail&logoColor=00C896)](mailto:vuk.todorovic@protonmail.com)
-[![Instagram](https://img.shields.io/badge/%20-0d1117?style=for-the-badge&logo=instagram&logoColor=E1306C)](https://instagram.com/todorovic.vuk)
+[LinkedIn](https://linkedin.com/in/vuktodorovic) · [Email](mailto:vuk.todorovic@protonmail.com) · [Instagram](https://instagram.com/todorovic.vuk)
 
 </div>
 
@@ -35,16 +33,6 @@ adversarial look is the actual job.
 
 <br/>
 
-### kumos
-
-my hobby OS, written from scratch in C. bootloader, kernel, memory management, x86 — the layer everyone else gets to assume works.
-
-**[→ github.com/TodorW/KumOS](https://github.com/TodorW/KumOS)**
-
-`C` `x86 asm` `bare metal`
-
-<br/>
-
 ### toolbox
 
 ```
@@ -52,15 +40,8 @@ offense/defense   burp suite · wireshark · metasploit · nmap
 languages         c · c++ · x86 asm · python · bash
 web/backend       react · laravel · postgresql · tailwind
 mobile            flutter · kotlin
-env               linux (cachyos, fedora) · macos
+env               linux (fedora, cachy, parrot) · macos
 ```
-
-<br/>
-
-<div align="center">
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=TodorW&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TodorW&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
 
 <br/>
 
