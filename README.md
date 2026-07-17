@@ -37,7 +37,7 @@ adversarial look is the actual job.
 
 ```
 offense/defense   burp suite · wireshark · metasploit · nmap
-languages         c · c++ · x86 asm · python · bash
+languages         c · c++ · x86 asm · python · java
 web/backend       react · laravel · postgresql · tailwind
 mobile            flutter · kotlin
 env               linux (fedora, cachy, parrot) · macos
